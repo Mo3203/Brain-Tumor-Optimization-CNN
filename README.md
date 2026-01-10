@@ -19,6 +19,6 @@ This project benchmarks four major optimization algorithms to determine the most
 - **Situation:** Manual MRI analysis is error-prone. Automated systems need an "optimal" optimizer to ensure clinical reliability.
 - **Task:** Compare 4 optimizers under identical conditions (60 epochs, 3e-4 learning rate) using 4,600 Kaggle MRI images.
 - **Action:** Developed a **PyTorch-based CNN** with 4 convolutional blocks. Implemented `ReduceLROnPlateau` and conducted a parametric study on optimization dynamics.
-- **Result:** Published a research paper identifying AdamW as the best for accuracy and SGD as the best for avoiding overfitting.
+- **Result:** written a research paper identifying AdamW as the best for accuracy and SGD as the best for avoiding overfitting.
 
 ---
