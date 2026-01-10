@@ -13,6 +13,14 @@ This project benchmarks four major optimization algorithms to determine the most
 | **SGD** | 97.61% | **0.9980** | Best generalization (Lowest Gap) |
 | **Adam** | 97.94% | 0.9966 | Most stable (Lowest σ: 0.0033) |
 
+
+<img width="686" height="625" alt="PERFORMANCE" src="https://github.com/user-attachments/assets/a0f89d95-70a2-44da-9b26-51d33acf537f" />
+
+###Validation Accuracy   Loss per Epoch:
+<img width="1473" height="873" alt="Validation Accuracy   Loss per Epoch" src="https://github.com/user-attachments/assets/b47db6bc-da11-4c61-aa8d-336ca624e02b" />
+
+
+
 ---
 
 ##  Methodology (STAR)
