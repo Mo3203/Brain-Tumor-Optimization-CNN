@@ -1,7 +1,8 @@
 # Brain-Tumor-Optimization-CNN
 
 # Optimization Dynamics in CNN-Based Brain Tumor Detection
-**A Comparative Study of SGD, Adam, RMSprop, and AdamW**
+**Optimization Dynamics in CNN-Based Brain Tumor Detection:
+A Comparative Study of SGD, Adam, RMSprop, and AdamW**
 
 ##  Project Overview
 This project benchmarks four major optimization algorithms to determine the most effective method for identifying brain tumors in MRI scans. Using a custom 4-block CNN architecture, this study analyzes convergence speed, stability (σ), and generalization ability.
